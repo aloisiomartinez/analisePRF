@@ -1,6 +1,6 @@
 # Análise Exploratória de Dados sobre Acidentes nas Estradas Brasileiras
 
-Este repositório contém uma análise detalhada 
+Este repositório contém uma análise detalhada sobre os acidentes que aconteceram em 2023 nas rodovias brasileiras.
 
 ## Fonte dos dados
 [Gov.br](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-acidentes)
